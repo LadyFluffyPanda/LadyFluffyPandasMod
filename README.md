@@ -1,2 +1,3 @@
 # LadyFluffyPandasMod
-LadyFluffyPandasMod, a mod for Terraria using TModLoader
+This mod adds crafting recipes to vanilla items, mostly weapons, accessories, mounts.
+
